@@ -33,10 +33,10 @@ documentation:
 
 # A description of what the inputs do
   inputs:               
-    - A: connected to IN0
-    - B: connected to IN1
-    - C: connected to IN2
-    - D: connected to IN3
+    - B: connected to IN0
+    - C: connected to IN1
+    - D: connected to IN2
+    - E: connected to IN3
     - none
     - none
     - none
